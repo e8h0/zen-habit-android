@@ -4,7 +4,7 @@
 
 Zen Habit 是一款简洁、安静的 Android 习惯追踪 App。它用月历、彩色主题和热力图记录每天的小小坚持，让习惯管理变得轻松而直观。
 
-![Zen Habit Android calendar](.zenhabit-android-calendar.png)
+![Zen Habit Android calendar](./zenhabit-android-calendar.png)
 
 ## 下载
 
